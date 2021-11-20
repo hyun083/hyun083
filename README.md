@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jh9501@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
+<h1><img src="https://img.shields.io/badge/jh9501@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/></h1>
 <!--
 **hyun083/hyun083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
