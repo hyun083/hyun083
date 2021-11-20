@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="mailto:﻿jh9501@gmail.com?subject=from github:" target="_blank"><img src="https://img.shields.io/badge/jh9501@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/></a>
+<a href="mailto:﻿jh9501@gmail.com?subject=from github:" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff"/></a>
 
