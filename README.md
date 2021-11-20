@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a><img src="https://img.shields.io/badge/jh9501@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/jh9501@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=ffffff"/>
 <!--
 **hyun083/hyun083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
