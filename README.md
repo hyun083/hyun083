@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun083&hide=stars,prs&theme=swift&show_icons=true)](https://github.com/hyun083/github-readme-stats)
+[![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun083&,prs&theme=swift&show_icons=true)](https://github.com/hyun083/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh9501)](https://solved.ac/jh9501/)
